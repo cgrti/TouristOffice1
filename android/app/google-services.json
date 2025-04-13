@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157176999196",
+    "project_id": "touristoffice-9dbff",
+    "storage_bucket": "touristoffice-9dbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157176999196:android:d9b84d915f0f795e90ded9",
+        "android_client_info": {
+          "package_name": "com.touristoffice.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3cw1j3o8VLF3o2el3dc-u5m7qwF381k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
